@@ -6,3 +6,8 @@ y = 5
 y = "John"
 print("x= ",x)
 print("y= ",y)
+x = 5
+y = "John"
+# type indica o tipo da variavel
+print(type(x))
+print(type(y))
